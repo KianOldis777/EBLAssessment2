@@ -1,0 +1,3 @@
+﻿  Assessment2.cpp
+C:\Users\kiano\source\repos\Assessment2\Assessment2\Assessment2.cpp(36,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assessment2.vcxproj -> C:\Users\kiano\source\repos\Assessment2\Debug\Assessment2.exe
